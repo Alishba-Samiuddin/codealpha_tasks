@@ -1,0 +1,22 @@
+Reservation Id: 1
+Customer: Aliya
+Room: A-111
+Category: suite
+Payment Status: unpaid
+------------------------------------------------------------------------------
+Reservation Id: 1
+Customer: Aliya
+Room: A-111
+Category: suite
+Payment Status: unpaid
+------------------------------------------------------------------------------
+Reservation Id: 1
+Customer: ali
+Room: 101
+Category: Standard
+Price: 5000.0
+Booking Date: 12-6-1990
+Reservation Status: Booked
+Refund Status: Not Refunded
+Payment Status: paid
+------------------------------------------------------------------------------

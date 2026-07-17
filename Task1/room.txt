@@ -1,0 +1,5 @@
+Room Number: 67
+Category: 9
+Price: 99.0
+Availability: Yes
+---------------------------------------------------------
